@@ -3,7 +3,7 @@ Data analysis projects and case studies I've finished as part of my educational 
 
 #Projects
 
-### Project 1
+### Time Series & Forecasting
 
 
 
