@@ -28,7 +28,7 @@ The following visualisations summarise the competitor analysis:
 
 1. Competitor Market Share
 This chart illustrates the distribution of market share among key competitors, with Vintner’s Daughter leading the segment.
-![Market Share Chart](Data/market_share.png)
+![Market Share Chart](Data/market_share.jpg)
 
 2. Pricing Strategy Comparison
 This chart compares the pricing strategies of competitors, highlighting how Meyraki can position itself in the accessible luxury segment.
