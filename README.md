@@ -31,10 +31,11 @@ This chart illustrates the distribution of market share among key competitors, w
 ![Market Share Chart](Data/market_share.jpg)
 
 2. Pricing Strategy Comparison
-This chart compares the pricing strategies of competitors, highlighting how Meyraki can position itself in the accessible luxury segment.
+This chart compares the pricing distribution of competitors, enabling Meyraki to position itself in an accessible segment.
 ![Price Distribution Chart](Data/newplot.png)
 
 3. Customer Segmentation
-This visualisation displays how competitors segment their customers by age, gender, and region, offering insights into untapped demographics.
+This visualisation displays how competitors segment their customers by age, gender, and region, offering insights into untapped demographics. A compilation of additional visulisations of competitor price ranges are provided below. 
+![Compilation](Data/collated_vis-1.png)
 
 ### Time Series & Forcasting
