@@ -28,10 +28,9 @@ This visualisation displays how competitors segment their customers by age, gend
 ![Compilation](Data/collated_vis-1.png)
 
 **Recommendations:**
-*Expand Sustainability Messaging:* Highlighting sustainable practices will align Meyraki with market trends and attract younger, eco-conscious buyers.
 
-*Targeting Unisex Products:* Introducing a gender-neutral skincare line could open up a growing male skincare market.
-
+*Expand Sustainability Messaging:* Highlighting sustainable practices will align Meyraki with market trends and attract younger, eco-conscious buyers.  
+*Targeting Unisex Products:* Introducing a gender-neutral skincare line could open up a growing male skincare market.  
 *Accessible Luxury:* Offering more affordable products (while maintaining luxury status) can help Meyraki tap into the pricing strategy used effectively by Juara and Sensai.
 
 To determine a suitable price point for ultra-luxury skincare products, Meyraki should consider the average prices of similar products, which range from £60 to £210 or $55 to $210. The company must assess whether its products justify these prices based on their unique formulation, packaging, and brand positioning. A price range between £150 to £300 could reflect exclusivity and premium quality. Given Meyraki's niche product composition, Juara, although not in the ultra-luxury market, is the closest competitor. Ultimately, the price should align with the perceived value of the products and the target market's willingness to pay.
