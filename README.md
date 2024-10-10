@@ -1,4 +1,4 @@
-# Data_Analysis_Portfolio
+# Data Analysis Portfolio
 
 ## Meyraki - Work Sample
 Through my internship with luxury-skincare start-up Meyraki, I was tasked in creating a market analysis report, collecting compeititor data through web scraping and developing actionable insights to aid market postion strategies aand product pricing. 
@@ -35,5 +35,23 @@ This visualisation displays how competitors segment their customers by age, gend
 
 To determine a suitable price point for ultra-luxury skincare products, Meyraki should consider the average prices of similar products, which range from £60 to £210 or $55 to $210. The company must assess whether its products justify these prices based on their unique formulation, packaging, and brand positioning. A price range between £150 to £300 could reflect exclusivity and premium quality. Given Meyraki's niche product composition, Juara, although not in the ultra-luxury market, is the closest competitor. Ultimately, the price should align with the perceived value of the products and the target market's willingness to pay.
 
-
 ## Time Series & Forcasting
+In an academic assignment, the goal was to create a forecasting tool for a charitable ambulance service in Jakarta, which operates 24/7 from four stations. Using historical call data from 01/01/17 to 23/10/22, the assignment involved forecasting weekly call volumes for the period from 24/10/22 to 18/12/22. The project included preliminary data analysis, identifying seasonal trends, and employing various time series models such as Naïve, SES, Holt Linear, Holt-Winters, and ARIMA. The models' accuracy was compared using error statistics like MAPE, and the findings were presented in a detailed poster with numerical and graphical summaries.
+![Time Series Modelling Evaluation](c22096073_Poster-1.png)
+
+**Key Findings:**
+
+*Data Preprocessing:*  
+The dataset contained missing values which were cleaned before analysis.
+The data exhibited seasonality, and stationarity was achieved after log transformations and differencing, as validated by the Dickey-Fuller test.  
+*Modeling:*  
+Naïve Method: Produced a high MAPE (10.75), unsuitable due to high variance.
+Moving Average: Improved MAPE (8.75) but was still inadequate due to its equal weighting of observations.
+Holt's Winter Method: Faced issues with missing data and produced NaN values despite adjustments to seasonal periods.
+ARIMA Model: Selected as the best model with the lowest MAPE and RMSE, accurately capturing the trend and seasonality.  
+*Autocorrelation and PACF:*  
+These plots were used to determine the lag orders for the ARIMA model, with p=1 and q=2 derived from the PACF and ACF plots, respectively.
+**Recommendations:**  
+Implement Auto-ARIMA for more optimized parameter selection.
+Increase the validation data size (e.g., 70:30 train/validation split) to reduce forecast errors.
+Consider using SARIMA to account for complex seasonal patterns in future analyses.
