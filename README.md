@@ -13,17 +13,17 @@ Unique Selling Propositions (USPs): Competitors rely on culturally rooted ingred
 Pricing Strategy: Meyraki can experiment with mid-tier luxury pricing, similar to Juara, to reach a broader consumer base without diluting its premium brand identity.
 
 **Visualisations:**
-The following visualisations summarise the competitor analysis:
+The following visualisations summarise the competitor analysis:  
 
-1. Competitor Market Share
+1. Competitor Market Share:
 This chart illustrates the distribution of market share among key competitors, with Vintner’s Daughter leading the segment.
 ![Market Share Chart](Data/market_share.jpg)
 
-2. Pricing Strategy Comparison
+2. Pricing Strategy Comparison:  
 This chart compares the pricing distribution of competitors, enabling Meyraki to position itself in an accessible segment.
 ![Price Distribution Chart](Data/newplot.png)
 
-3. Customer Segmentation
+3. Customer Segmentation:
 This visualisation displays how competitors segment their customers by age, gender, and region, offering insights into untapped demographics. A compilation of additional visulisations of competitor price ranges are provided below. 
 ![Compilation](Data/collated_vis-1.png)
 
