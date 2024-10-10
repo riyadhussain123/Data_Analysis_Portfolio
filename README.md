@@ -51,7 +51,7 @@ Moving Average: Improved MAPE (8.75) but was still inadequate due to its equal w
 Holt's Winter Method: Faced issues with missing data and produced NaN values despite adjustments to seasonal periods.
 ARIMA Model: Selected as the best model with the lowest MAPE and RMSE, accurately capturing the trend and seasonality.  
 ***Autocorrelation and PACF:***  
-These plots were used to determine the lag orders for the ARIMA model, with p=1 and q=2 derived from the PACF and ACF plots, respectively.
+These plots were used to determine the lag orders for the ARIMA model, with p=1 and q=2 derived from the PACF and ACF plots, respectively.  
 **Recommendations:**  
 Implement Auto-ARIMA for more optimized parameter selection.
 Increase the validation data size (e.g., 70:30 train/validation split) to reduce forecast errors.
