@@ -41,15 +41,15 @@ In an academic assignment, the goal was to create a forecasting tool for a chari
 
 **Key Findings:**
 
-*Data Preprocessing:*  
+***Data Preprocessing:***  
 The dataset contained missing values which were cleaned before analysis.
 The data exhibited seasonality, and stationarity was achieved after log transformations and differencing, as validated by the Dickey-Fuller test.  
-*Modeling:*  
+***Modeling:***  
 Naïve Method: Produced a high MAPE (10.75), unsuitable due to high variance.
 Moving Average: Improved MAPE (8.75) but was still inadequate due to its equal weighting of observations.
 Holt's Winter Method: Faced issues with missing data and produced NaN values despite adjustments to seasonal periods.
 ARIMA Model: Selected as the best model with the lowest MAPE and RMSE, accurately capturing the trend and seasonality.  
-*Autocorrelation and PACF:*  
+***Autocorrelation and PACF:***  
 These plots were used to determine the lag orders for the ARIMA model, with p=1 and q=2 derived from the PACF and ACF plots, respectively.
 **Recommendations:**  
 Implement Auto-ARIMA for more optimized parameter selection.
