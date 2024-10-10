@@ -31,24 +31,8 @@ Recommendations:
 Expand Sustainability Messaging: Highlighting sustainable practices will align Meyraki with market trends and attract younger, eco-conscious buyers.
 Targeting Unisex Products: Introducing a gender-neutral skincare line could open up a growing male skincare market.
 Accessible Luxury: Offering more affordable products (while maintaining luxury status) can help Meyraki tap into the pricing strategy used effectively by Juara and Sensai.
-To suggest a price point for ultra-luxury skincare products, we can consider the average prices of
-similar products in the market provided in Table 15:
-• Tata Harper Cleanser: £66.40
-• Tata Harper Serum: £154.29
-• Juara: $55.18
-• Tatcha: $66.30
-• Sensai Cleanser: £60.00
-• Sensai Essence: £210.18
-• Vintner's Daughter: $210.75
-Considering these prices, it's evident that ultra-luxury skincare products typically fall within a
-higher price range. Meyraki must determine whether its prospective products are valued at these
-price points. If so, Meyraki should aim for a price point that reflects exclusivity and premium
-quality, where given by the range of prices in Table 15, a price point between £150 to £300 (or its
-equivalent in dollars) could be suitable, depending on factors such as unique formulation,
-packaging, and brand positioning. Given Meyraki’s niche product composition & USP, Juara is its
-closest and most comparable competitor, though Juara does not lie in the ultra-luxury market,
-hence the suggested price point may be an attractive proposition. Ultimately, the price should
-align with the perceived value of the products and the target market's willingness to pay for luxury
-skincare
+
+To determine a suitable price point for ultra-luxury skincare products, Meyraki should consider the average prices of similar products, which range from £60 to £210 or $55 to $210. The company must assess whether its products justify these prices based on their unique formulation, packaging, and brand positioning. A price range between £150 to £300 could reflect exclusivity and premium quality. Given Meyraki's niche product composition, Juara, although not in the ultra-luxury market, is the closest competitor. Ultimately, the price should align with the perceived value of the products and the target market's willingness to pay.
+
 
 ## Time Series & Forcasting
