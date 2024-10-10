@@ -1,7 +1,7 @@
 # Data_Analysis_Portfolio
 
 ## Meyraki - Work Sample
-Through my internship with luxury-skincare start-up Meyraki, I was tasked in creating a market analysis report, collecting compeititor data through web scraping 
+Through my internship with luxury-skincare start-up Meyraki, I was tasked in creating a market analysis report, collecting compeititor data through web scraping and developing actionable insights to aid market postion strategies aand product pricing. 
 ### Meyraki Competitor Analysis Project
 
 Project Overview: This competitor analysis examines Meyraki's positioning against five competitors (Juara, Tata Harper, Vintner’s Daughter, Sensai, and Tatcha) across market share, pricing, and target audience segments. The goal is to provide strategic insights for Meyraki to strengthen its competitive edge in the luxury skincare market.
