@@ -38,7 +38,8 @@ To determine a suitable price point for ultra-luxury skincare products, Meyraki 
 ## Time Series & Forcasting
 In an academic assignment, the goal was to create a forecasting tool for a charitable ambulance service in Jakarta, which operates 24/7 from four stations. Using historical call data from 01/01/17 to 23/10/22, the assignment involved forecasting weekly call volumes for the period from 24/10/22 to 18/12/22. The project included preliminary data analysis, identifying seasonal trends, and employing various time series models such as Naïve, SES, Holt Linear, Holt-Winters, and ARIMA. The models' accuracy was compared using error statistics like MAPE, and the findings were presented in a detailed poster with numerical and graphical summaries.
 ![Time Series Modelling Evaluation](Data/c22096073_Poster-1.png)
-The code is attached as a PDF here: ![View HTML Document](Data/c22096073_code.html)
+The code is attached as a PDF here: ![View HTML Document](Data/c22096073_code.html)  
+
 **Key Findings:**
 
 ***Data Preprocessing:***  
