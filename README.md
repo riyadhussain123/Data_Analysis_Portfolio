@@ -1,13 +1,4 @@
 # Data Analysis Portfolio
-## Accenture North America Data Analytics and Visualisation Job Simulation 
-  - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
-  - Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions
-  - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
-You can view my presentation here: [Internship PowerPoint](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/Data%20Analytics%20template%20-%20Task%203_final.pdf).
-Higlights of my presentation are highlighted below
-![Slide 1](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192526.png)
-![Slide 2](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192619.png)
-![Slide 3](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192701.png)
 
 ## Meyraki - Work Sample
 Through my internship with luxury-skincare start-up Meyraki, I was tasked in creating a market analysis report, collecting compeititor data through web scraping and developing actionable insights to aid market postion strategies aand product pricing. 
@@ -44,6 +35,18 @@ This visualisation displays how competitors segment their customers by age, gend
 
 To determine a suitable price point for ultra-luxury skincare products, Meyraki should consider the average prices of similar products, which range from £60 to £210 or $55 to $210. The company must assess whether its products justify these prices based on their unique formulation, packaging, and brand positioning. A price range between £150 to £300 could reflect exclusivity and premium quality. Given Meyraki's niche product composition, Juara, although not in the ultra-luxury market, is the closest competitor. Ultimately, the price should align with the perceived value of the products and the target market's willingness to pay.
 
+## Accenture North America Data Analytics and Visualisation Job Simulation 
+  - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+  - Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions
+  - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+You can view my presentation here: [Internship PowerPoint](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/Data%20Analytics%20template%20-%20Task%203_final.pdf).
+
+Higlights of my presentation are highlighted below
+![Slide 1](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192526.png)
+![Slide 2](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192619.png)
+![Slide 3](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192701.png)  
+
+  
 ## Time Series & Forcasting
 In an academic assignment, the goal was to create a forecasting tool for a charitable ambulance service in Jakarta, which operates 24/7 from four stations. Using historical call data from 01/01/17 to 23/10/22, the assignment involved forecasting weekly call volumes for the period from 24/10/22 to 18/12/22. The project included preliminary data analysis, identifying seasonal trends, and employing various time series models such as Naïve, SES, Holt Linear, Holt-Winters, and ARIMA. The models' accuracy was compared using error statistics like MAPE, and the findings were presented in a detailed poster with numerical and graphical summaries.
 ![Time Series Modelling Evaluation](Data/c22096073_Poster-1.png)
