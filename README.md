@@ -1,4 +1,13 @@
 # Data Analysis Portfolio
+## Accenture North America Data Analytics and Visualisation Job Simulation 
+  - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+  - Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions
+  - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+You can view my presentation here: [Internship PowerPoint](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/Data%20Analytics%20template%20-%20Task%203_final.pdf).
+Higlights of my presentation are highlighted below
+![Slide 1](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192526.png)
+![Slide 2](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192619.png)
+![Slide 3](https://github.com/riyadhussain123/Data_Analysis_Portfolio/blob/main/Data/my_vis/Screenshot%202024-10-29%20192701.png)
 
 ## Meyraki - Work Sample
 Through my internship with luxury-skincare start-up Meyraki, I was tasked in creating a market analysis report, collecting compeititor data through web scraping and developing actionable insights to aid market postion strategies aand product pricing. 
